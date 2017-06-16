@@ -16,6 +16,6 @@ Alpha of an alpha of an alpha.... V0.0.0.0.0.0.0.0.1a
 * Division                  : Working
 
 
-power, root, complex numbers, modulus : Not Implemented
-wrapper class to hide the low level implementations : Not Implemented
+* power, root, complex numbers, modulus : Not Implemented
+* wrapper class to hide the low level implementations : Not Implemented
 

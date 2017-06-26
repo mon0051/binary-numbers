@@ -1,6 +1,6 @@
-let BinaryFraction = require('../../../src/app/binaryNumbers/simple/BinaryFraction');
-let BinaryNumberState = require('../../../src/app/binaryNumbers/simple/low-level/BinaryNumberState');
-let MixedNumber = require('../../../src/app/binaryNumbers/simple/MixedNumeral');
+let BinaryFraction = require('../../src/app/simple/BinaryFraction');
+let BinaryNumberState = require('../../src/app/simple/low-level/BinaryNumberState');
+let MixedNumber = require('../../src/app/simple/MixedNumeral');
 
 describe("Mixed Numeral", function () {
     it("25 = 25", function () {

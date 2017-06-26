@@ -1,4 +1,4 @@
-let BinaryNumberState = require('../../../src/app/binaryNumbers/simple/low-level/BinaryNumberState');
+let BinaryNumberState = require('../../src/app/simple/low-level/BinaryNumberState');
 
 describe("Binary Number Test Suite", function () {
 

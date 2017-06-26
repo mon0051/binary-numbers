@@ -1,5 +1,5 @@
-let BinaryFraction = require('../../../src/app/binaryNumbers/simple/BinaryFraction');
-let BinaryNumberState = require('../../../src/app/binaryNumbers/simple/low-level/BinaryNumberState');
+let BinaryFraction = require('../../src/app/simple/BinaryFraction');
+let BinaryNumberState = require('../../src/app/simple/low-level/BinaryNumberState');
 
 describe("Binary Fraction", function () {
     it("1/4 = 0.25", function () {

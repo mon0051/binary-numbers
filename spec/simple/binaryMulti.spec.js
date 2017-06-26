@@ -1,5 +1,5 @@
-let binaryMulti = require('../../../src/app/binaryNumbers/simple/binaryMulti');
-let BinaryNumberState = require('../../../src/app/binaryNumbers/simple/low-level/BinaryNumberState');
+let binaryMulti = require('../../src/app/simple/binaryMulti');
+let BinaryNumberState = require('../../src/app/simple/low-level/BinaryNumberState');
 
 describe("Binary Number Multiplication", function () {
     it("5 * 7 = 35", function () {

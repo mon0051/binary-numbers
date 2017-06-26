@@ -1,7 +1,7 @@
-let BinaryNumber = require('../../src/app/binaryNumbers/BinaryNumber');
-let BinaryFraction = require('../../src/app/binaryNumbers/simple/BinaryFraction');
-let BinaryNumberState = require('../../src/app/binaryNumbers/simple/low-level/BinaryNumberState');
-let MixedNumeral = require('../../src/app/binaryNumbers/simple/MixedNumeral');
+let BinaryNumber = require('../src/app/BinaryNumber');
+let BinaryFraction = require('../src/app/simple/BinaryFraction');
+let BinaryNumberState = require('../src/app/simple/low-level/BinaryNumberState');
+let MixedNumeral = require('../src/app/simple/MixedNumeral');
 
 describe("Binary Number Fraction Add", function () {
     it("1.333 to be 1.333", function () {
